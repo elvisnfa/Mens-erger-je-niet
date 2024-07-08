@@ -1,0 +1,13 @@
+# exclude node_modules directory
+node_modules
+
+# exclude JetBrains IDE workspace files
+.idea/
+*.iml
+*.iws
+*.ipr
+package-lock.json
+
+#dotenv environment variables file
+.env
+.env.test
